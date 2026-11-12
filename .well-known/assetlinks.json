@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kinmori.wineevents",
+        "sha256_cert_fingerprints": ["D7:09:17:6D:19:22:01:C1:C4:81:DE:B5:21:23:3B:4C:E3:25:74:0D:90:38:CA:5C:D8:90:BA:A8:B1:32:32:AF"]
+      }
+    }]
